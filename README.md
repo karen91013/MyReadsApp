@@ -3,7 +3,7 @@ This is the starter template for the final assessment project for Udacity's Reac
 
 
 ## To Start
-To get started developing right away:
+To get started:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
